@@ -6,14 +6,14 @@
 
 ## Games
 
-Name | Platform | Status
------------- | ------- | ------------
-This Mig! | [Android](https://play.google.com/store/apps/details?id=com.synxpixels.thismig&hl=pt_BR) | Finished
-Soloquiz | [Android](https://play.google.com/store/apps/details?id=com.synxpixels.soloquiz&hl=pt_BR) | Finished
+Name | Platform | Status | Language | Tech Stack
+------------ | ------- | ------------ | ------------ | ------------
+This Mig! | Android | Finished | C# | Unity
+Soloquiz | Android | Finished | C# | Unity
 
 
 ## Others
 
-Name | Platform | Status
------------- | ------- | ------------
-Emovere | Android | Developing
+Name | Platform | Status | Language | Tech Stack
+------------ | ------- | ------------| ------------ | ------------
+Animavita | Android | Developing | Javascript | React Native, Apollo, Node, Mongodb, Graphql
